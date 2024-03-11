@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
 
   s.dependency "React-Core"
-  s.dependency "GoogleMLKit/ObjectDetection", "2.6.0"
+  s.dependency "GoogleMLKit/ObjectDetection", "3.2.0"
   # ...
   # s.dependency "..."
 end
